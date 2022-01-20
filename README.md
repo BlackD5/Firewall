@@ -16,7 +16,7 @@ Steps to Run
                           "ListOfBannedIpAddr": ["192.168.43.181", "192.168.43.182"],
                           "ListOfBannedPorts": [80, 81],
                           "ListOfBannedPrefixes": ["172."],
-                         "TimeThreshold": 10,
+                          "TimeThreshold": 10,
                           "PacketThreshold": 100,
                           "BlockPingAttacks" : "True"
                         }
